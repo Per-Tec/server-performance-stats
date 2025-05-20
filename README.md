@@ -26,6 +26,7 @@ This project provides modular Bash scripts to monitor basic server performance m
 | `failed-logins.sh` | Failed login attempts (last 24h)   |
 
 ## 🚀 How to Use
+Project URL - https://roadmap.sh/projects/server-stats
 
 ```bash
 chmod +x *.sh
